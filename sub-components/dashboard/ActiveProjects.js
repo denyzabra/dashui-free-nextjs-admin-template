@@ -16,7 +16,7 @@ const ActiveProjects = () => {
                     <Table responsive className="text-nowrap mb-0">
                         <thead className="table-light">
                             <tr>
-                                <th>Project name</th>
+                                <th>Properties</th>
                                 <th>Hours</th>
                                 <th>priority</th>
                                 <th>Members</th>
